@@ -3,3 +3,7 @@ Boot
 Virus
 Warn
 Anti virus 
+anti spam
+anti link
+mute
+unmute
